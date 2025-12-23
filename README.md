@@ -381,5 +381,5 @@ if __name__ == "__main__":
 
 !ls
 
-Pfizer = pfizer output.json
+
 These files demonstrate consistent structured extraction across different site layouts.
